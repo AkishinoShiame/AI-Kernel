@@ -1,6 +1,6 @@
 # AI Kernel
 
-This project contains one of my graduated school application with NLP and Virtual Agent.
+This project implement a server-client structure application with NLP, emotion recognition and Virtual Agent.
 
 ## Details 
 |    --Respository's name--            |      --description--                                                            |
