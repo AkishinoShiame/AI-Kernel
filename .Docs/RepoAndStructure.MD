@@ -6,8 +6,8 @@ Explan the main function & structure of this AI kernel system.
 
 ```
 AI Kernel (Graduated-Project) 
-├── Chinese-Speech-Emotion-Datasets    - The datasets used by this system. 
-├── Virtual-Elderly-Chatbot-App    - Unity project for create client APPs used.
+├── AI-Kernel-Datasets    - The datasets used by this system. 
+├── AI-Kernel-App    - Unity project for create client APPs used.
 │    └── Assets
 │        ├── EasyTTS    - Plugins buy from Unity Store.If you want to reuse this project, please buy the plugin again.
 │        ├── Scripts
@@ -23,8 +23,8 @@ AI Kernel (Graduated-Project)
 │        │   ├── SpeechSound.cs    - Perform different pre-record sound for question asking.
 │        │   └── WebcamBG.cs    - Background to simulate as AR.
 │        └── Scripts.meta
-├── Virtual-Elderly-Chatbot-IOS-Project-IOS-12    - The Xcode project build from Unity Project. 
-└── Virtual-Elderly-Chatbot-Server-Structure    - The main server of this AI kernel service.
+├── AI-Kernel-IOS-Project-IOS-12    - The Xcode project build from Unity Project. 
+└── AI-Kernel-Server-Structure    - The main server of this AI kernel service.
      ├── NoTag                        - The pure ChatBot. 
      │     ├── AWWW_chatbot_response.py    - Function of chatbot interaction reply. 
      │     ├── AWWW_jiebaCut.py    - Function of sentence split to words applied on Chinese language.
@@ -55,8 +55,8 @@ AI Kernel (Graduated-Project)
 
 ```
 AI Kernel (Graduated-Project) 
-├── Chinese-Speech-Emotion-Datasets    - このシステムを使うの訓練資料。　
-├── Virtual-Elderly-Chatbot-App    - クライアントのアプリを作る、Unityのプロジェクト。　
+├── AI-Kernel-Datasets    - このシステムを使うの訓練資料。　
+├── AI-Kernel-App    - クライアントのアプリを作る、Unityのプロジェクト。　
 │    └── Assets
 │        ├── EasyTTS    -　Unityストアに買ったのプラグインです。もし利用が必要の場合は、ストアにもう一度買ってください。
 │        ├── Scripts
@@ -72,8 +72,8 @@ AI Kernel (Graduated-Project)
 │        │   ├── SpeechSound.cs    - 幾つの問題を用意したそうして変わって出来るな機能。
 │        │   └── WebcamBG.cs    - アプリにAR感の機能を作る。
 │        └── Scripts.meta
-├── Virtual-Elderly-Chatbot-IOS-Project-IOS-12    - UnityのプロジェクトをビルドしたのXcodeプロジェクト。　
-└── Virtual-Elderly-Chatbot-Server-Structure    - このAI Kernelサービスのメインプログラム。　
+├── AI-Kernel-IOS-Project-IOS-12    - UnityのプロジェクトをビルドしたのXcodeプロジェクト。　
+└── AI-Kernel-Server-Structure    - このAI Kernelサービスのメインプログラム。　
      ├── NoTag                        - 普通のチャットボット。　
      │     ├── AWWW_chatbot_response.py    - チャットボットの返事を出る機能。　
      │     ├── AWWW_jiebaCut.py    - 中国語の対話を単語するの機能。　
@@ -104,8 +104,8 @@ AI Kernel (Graduated-Project)
 
 ```
 AI Kernel (Graduated-Project) 
-├── Chinese-Speech-Emotion-Datasets    - 此系統所使用的訓練資料集。 
-├── Virtual-Elderly-Chatbot-App    - 使用Unity所建置客戶端程式的專案。 
+├── AI-Kernel-Datasets    - 此系統所使用的訓練資料集。 
+├── AI-Kernel-App    - 使用Unity所建置客戶端程式的專案。 
 │    └── Assets
 │        ├── EasyTTS    - 從Unity商店購買下來的文字轉語音插件，如有要重複使用此專案請依規定購買此套件。
 │        ├── Scripts
@@ -121,8 +121,8 @@ AI Kernel (Graduated-Project)
 │        │   ├── SpeechSound.cs    - 提供預設的問題，提供與播放預錄好得引導問句。
 │        │   └── WebcamBG.cs    - 產生如同有AR感覺的背景。
 │        └── Scripts.meta
-├── Virtual-Elderly-Chatbot-IOS-Project-IOS-12    - 由Unity編譯與建置出的Xcode專案，為產生IOS手機程式用。
-└── Virtual-Elderly-Chatbot-Server-Structure    - 產生本AI kernel所必須的主程式。
+├── AI-Kernel-IOS-Project-IOS-12    - 由Unity編譯與建置出的Xcode專案，為產生IOS手機程式用。
+└── AI-Kernel-Server-Structure    - 產生本AI kernel所必須的主程式。
      ├── NoTag                        - 純粹的聊天機器人。 
      │     ├── AWWW_chatbot_response.py    - 提供聊天機器人產生回覆的程式。 
      │     ├── AWWW_jiebaCut.py    - 結巴斷詞，將整個中文句子進行斷詞以供聊天機器人作動。 

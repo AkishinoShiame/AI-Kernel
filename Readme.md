@@ -3,12 +3,12 @@
 This project contains one of my graduated school application with NLP and Virtual Agent.
 
 ## Details 
-|    --Respository's name--                  |      --description--                                                            |
-| ------------------------------------------:|:------------------------------------------------------------------------------- |
-| Chinese-Speech-Emotion-Datasets            | Datasets of the Speech Spectrogram with emotion tag.                            |
-| Virtual-Elderly-Chatbot-Server-Structure   | The server code and main part of structure, using python.                       |
-| Virtual-Elderly-Chatbot-App                | The main part of client structure, using unity to build up for multi-plaftform. |
-| Virtual-Elderly-Chatbot-IOS-Project-IOS-12 | The IOS project (Opened with Xcode) of Virtual Elderly Chatbot App.             |
+|    --Respository's name--            |      --description--                                                            |
+| ------------------------------------:|:------------------------------------------------------------------------------- |
+| AI-Kernel-Datasets                   | Datasets of the Speech Spectrogram with emotion tag.                            |
+| AI-Kernel-Server-Structure           | The server code and main part of structure, using python.                       |
+| AI-Kernel-Chatbot-App                | The main part of client structure, using unity to build up for multi-plaftform. |
+| AI-Kernel-Chatbot-IOS-Project-IOS-12 | The IOS project (Opened with Xcode) of Virtual Elderly Chatbot App.             |
 
 ###### Test data was random picked from all Counts data.
 
