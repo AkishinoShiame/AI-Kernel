@@ -99,4 +99,4 @@ Create and update documentation in "令和Update" release.
 
 #### Demoムービ
 
-[![alt Demoムービー](http://i3.ytimg.com/vi/OdDjb4pAgkU/maxresdefault.jpg)](https://youtu.be/OdDjb4pAgkU "Demoムービー０１")
+[![alt Demoムービー](https://i.ytimg.com/vi/OdDjb4pAgkU/sddefault.jpg)](https://youtu.be/OdDjb4pAgkU "Demoムービー０１")
