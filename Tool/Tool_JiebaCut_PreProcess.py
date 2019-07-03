@@ -23,7 +23,7 @@ def scut2word(input_path, output_path):
     input_fd.close()
     output_fd.close()
     
-    print("[System Message]: Finished Cut!!! Output to", output_path)
+    print(" ========== [System Message]: Finished Cut!!! Output to", output_path," ========== ")
 
 
 def main(argv):
@@ -47,7 +47,7 @@ def main(argv):
        print('Tool_JiebaCut_PreProcess.py -i <inputfile> -o <outputfile>')
        sys.exit(2)
 
-   print("[System Message]: Preprocess file Word cut for input file", input_path)
+   print(" ========== [System Message]: Preprocess file Word cut for input file", input_path, " ========== ")
    scut2word(inputfile, outputfile)
 
 if __name__ == "__main__":
